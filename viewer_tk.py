@@ -1,7 +1,6 @@
 import tkinter as tk
 from pathlib import Path
 from PIL import ImageTk, Image, ImageOps
-from mi_checkbox import MiCheckbox
 
 
 class ViewerTk(tk.Frame):
